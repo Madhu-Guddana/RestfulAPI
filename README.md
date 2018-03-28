@@ -15,6 +15,9 @@ Don't know much
 DELETE:
 The url will have both entity type and its ID, and that will be deleted.
 
+OPTIONS:
+Used to get the supported operations on a resource.
+
 HTTP resposes
 100 series -> Information Responses
 200 series -> Success  (201 created)
